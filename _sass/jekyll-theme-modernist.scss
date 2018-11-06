@@ -340,6 +340,7 @@ footer p + p {
     float: none;
   }
 }
+
 @media print, screen and (max-width:580px) {
   header ul {
     display: none;
@@ -353,12 +354,11 @@ footer p + p {
     width: 100%;
   }
 }
+
 @media print {
   header p.view a small:before {
     content: 'at http://github.com/';
   }
-}
-
 }
 
 .wrapper {
