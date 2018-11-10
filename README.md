@@ -1,7 +1,3 @@
----
-desc: 这里是页面描述
----
-
 ## Welcome
 
 You can use the [editor on GitHub](https://github.com/scottcgi/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
