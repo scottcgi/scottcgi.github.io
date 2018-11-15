@@ -1,5 +1,10 @@
-title: scott.cgi
+title      : scott.cgi
 description: 这里是介绍
-url: "https://scottcgi.github.io"
-theme: jekyll-theme-modernist
+url        : "https://scottcgi.github.io"
+theme      : jekyll-theme-modernist
 
+nav:
+ - name: "中文"
+   link: "/"
+ - name: "En"
+   link: "/README_EN.md"
