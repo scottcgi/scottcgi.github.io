@@ -1,4 +1,5 @@
 title      : scott.cgi
+lang       : zh
 description: 编程、写作、独立游戏和软件制作
 url        : https://scottcgi.github.io
 theme      : jekyll-theme-modernist
@@ -6,5 +7,5 @@ theme      : jekyll-theme-modernist
 nav:
  - name: 中文
    link: /
- - name: En
-   link: /README_EN.md
+ - name: en
+   link: /README_en.md
