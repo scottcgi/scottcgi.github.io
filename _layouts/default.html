@@ -24,15 +24,15 @@
         
         <ul>
         {% for item in site.nav %}
-            <li>
-                <a href="{{ item.link }}">
-                  {% if page.url == item.link %}
-                      <strong>{{ item.name }}</strong>
-                  {% else %}
-                      {{ item.name }}
-                  {% endif %}
-                </a>
+          {% if page.url == item.link %}
+            <li style="background-color=#069">
+              <a href="{{ item.link }}">
+                <strong>{{ item.name }}</strong>
+              </a>
             </li>
+          {% else %}
+            <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+          {% endif %}
         {% endfor %}
         </ul>
       </header>
