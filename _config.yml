@@ -1,10 +1,10 @@
 title      : scott.cgi
-description: 编程 | 写作 | 独立游戏和软件制作 | 全栈码农 | 疯狂编程10年+
-url        : "https://scottcgi.github.io"
+description: 编程、写作、独立游戏和软件制作、疯狂编程10年+
+url        : https://scottcgi.github.io
 theme      : jekyll-theme-modernist
 
 nav:
- - name: "中文"
-   link: "/"
- - name: "En"
-   link: "/README_EN.md"
+ - name: 中文
+   link: /
+ - name: En
+   link: /README_EN.md
