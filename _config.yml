@@ -1,6 +1,7 @@
 title      : scott.cgi
 lang       : zh
 description: 编程、写作、独立游戏和软件制作
+copyright  : Copyright © 2018 <a href="#">scott.cgi</a> All Rights Reserved...
 url        : https://scottcgi.github.io
 theme      : jekyll-theme-modernist
 
