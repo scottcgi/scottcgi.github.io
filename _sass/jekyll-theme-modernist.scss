@@ -12,6 +12,7 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, "PingFang SC", "Microsoft YaHei";
   color:#555;
   font-weight:300;
+  min-height:-webkit-fill-available;
   background:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==') fixed;
 }
 
@@ -34,6 +35,7 @@ a {
 
 a:hover {
   text-decoration:underline;
+  text-decoration-color:#90a959;
 } 
 
 p {
