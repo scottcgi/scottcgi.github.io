@@ -44,7 +44,7 @@
     </div>
     
     <footer>
-      <p>Copyright © 2018 <a href="#">scott.cgi</a> All Rights Reserved</p>
+      <p>{{ site.copyright | default: "copyright not found in _config.yml" }}</p>
     </footer>
     
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
