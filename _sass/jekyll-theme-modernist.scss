@@ -131,7 +131,7 @@ header {
     }
 
     a {
-      // line-height:1;
+      line-height:1.8;
       font-size:14px;
       color:#fff;
       color:rgba(#fff, 0.8);
@@ -204,7 +204,7 @@ img {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
-  font-size:12px;
+  font-size:13px;
   overflow-x:auto;
 }
 
@@ -245,7 +245,7 @@ th {
 }
 
 small {
-  font-size:11px;
+  font-size:12px;
 }
 
 hr {
@@ -282,7 +282,7 @@ footer {
   }
 
   .wrapper {
-    border-radius: 0;
+    border-radius: 5px;
     box-shadow: none;
     width:100%;
   }
