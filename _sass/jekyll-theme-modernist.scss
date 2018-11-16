@@ -286,11 +286,10 @@ footer {
 
 @media print, screen and (max-width: 740px) {
   body {
-    padding:0;
+    padding:10px 0;
   }
 
   .wrapper {
-    // border-radius: 8px;
     box-shadow: none;
     width:100%;
   }
