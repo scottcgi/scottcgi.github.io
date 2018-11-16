@@ -7,5 +7,5 @@ theme      : jekyll-theme-modernist
 nav:
  - name: 中文
    link: /
- - name: en
+ - name: En
    link: /README_en.md
