@@ -24,9 +24,6 @@
        
         <ul>
         {% for item in site.nav %}
-          
-           {{ page.url }} ==  {{ item.link }}
-          
           {% if page.url == item.link %}
             <li style="background-color:#069">
               <a href="{{ item.link }}">
