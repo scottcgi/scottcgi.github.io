@@ -32,10 +32,12 @@ header, section, footer {
 a {
   color:#069;
   text-decoration:none;
-  text-decoration-color:#ac4142;
 }
 
 a:hover {
+  text-decoration-color:#ac4142;
+  -webkit-text-decoration-color:#ac4142;
+  -moz-text-decoration-color:#ac4142;
   text-decoration:underline;
 } 
 
