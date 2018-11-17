@@ -1,5 +1,4 @@
 @import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
 
 html {
   background:#6C7989;
@@ -10,7 +9,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif, "PingFang SC", "Microsoft YaHei";
+  font:14px/1.5 "Helvetica Neue", "PingFang SC", "Microsoft YaHei", Arial, sans-serif, Helvetica;
   color:#555;
   font-weight:350;
   min-height:100%;
