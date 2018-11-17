@@ -1,15 +1,14 @@
-## Welcome
+## 简介
 
-You can use the [editor on GitHub](https://github.com/scottcgi/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+疯狂编程10多年，每天10小时以上，一周写代码80小时。上班写代码服务世界，下班写代码改变世界，这是每天不被时间和本能动摇的信念。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> 这里是引用描述文字。
 
 ```
-
+这里写中文会显示什么样子。
 ```
 
 ----------------
