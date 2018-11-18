@@ -10,7 +10,7 @@
   * cocos2dx（c++、lua，2d）
   * gameplay3d（c++，3d）
   * unity3d（c#，2d/3d）
-* 自研游戏引擎（C99、openGLES、java、swift，2d/3d）
+* 自研游戏引擎（c99、opengles、java、swift，2d/3d）
 * svn、git、nodejs、lisp、maven
 * unity3d插件、开箱即用gameplay框架、vulkan、metal（进行中）
 * 人工智能、区块链、操作系统内核（学习中）
@@ -34,16 +34,17 @@
 所有的文章会随着信息的积累和认知的改变，而不断的修订（增删改），并会同步更新到不同的社交账号。
 
 * 技术分享
-  * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)，
-  * [技术博客](https://blog.csdn.net/tom_221x)，
+  * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
+  * [技术博客](https://blog.csdn.net/tom_221x)
   * [简书文集（多个分类）](https://www.jianshu.com/u/63a72cf6fff1)
 * 洞见思考
-  * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)，
-  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)，
+  * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
+  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
 
 ## 开源项目
 
+* [Mojoc](https://github.com/scottcgi/Mojoc) 自研游戏引擎（c99，opengles3.1，android/ios）
 
 
 
