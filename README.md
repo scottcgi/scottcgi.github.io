@@ -24,8 +24,12 @@
 
 ## 社交网络
 
-* 「微博」[https://weibo.com/scottcgi](https://weibo.com/scottcgi) —— 分享有趣的想法和闪念 
-* 「知乎」[https://www.zhihu.com/people/scott.cgi](https://www.zhihu.com/people/scott.cgi) —— 想法和技术写作以及答题
+* 「微博」[分享有趣的见解和闪念](https://weibo.com/scottcgi)
+* 「知乎」[专栏（技术和洞见思考）和答题](https://www.zhihu.com/people/scott.cgi)
+* 「豆瓣」[日记（同步洞见思考）读书电影](https://www.douban.com/people/scottcgi)
+* 「简书」[写作（同步技术和洞见思考）](https://www.jianshu.com/u/63a72cf6fff1)
+* 「博客」[技术写作（同步技术）](https://blog.csdn.net/tom_221x)
+* 「GitHub」[代码项目](https://github.com/scottcgi)
 
 
 ## 开源项目
