@@ -36,7 +36,7 @@
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
   * [技术博客](https://blog.csdn.net/tom_221x)
-  * [简书文集（多个分类）](https://www.jianshu.com/u/63a72cf6fff1)
+  * [简书文集（代码分类）](https://www.jianshu.com/u/63a72cf6fff1)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
   * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
@@ -45,7 +45,7 @@
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
 
-## 开源项目
+## 开源项目 
 
 * [Mojoc](https://github.com/scottcgi/Mojoc) 自研游戏引擎（c99，opengles3.1，android/ios）
 
