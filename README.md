@@ -37,12 +37,12 @@
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
   * [简书文集（代码分类）](https://www.jianshu.com/u/63a72cf6fff1)
-  * [csdn](https://blog.csdn.net/tom_221x)
+  * [csdn博客](https://blog.csdn.net/tom_221x)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
-  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
   * [豆瓣专栏（闪念俱乐部）](https://read.douban.com/column/8595270)
+  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
