@@ -25,22 +25,24 @@
 ## 社交网络
 
 * 「微博」[分享有趣的见解和闪念（一句话纯文字）](https://weibo.com/scottcgi)
-* 「知乎」[答题和专栏（技术和洞见思考）](https://www.zhihu.com/people/scott.cgi)
-* 「豆瓣」[标记书籍和电影，日记（洞见思考）](https://www.douban.com/people/scottcgi)
-* 「简书」[写作（技术和洞见思考）](https://www.jianshu.com/u/63a72cf6fff1)
-* 「博客」[技术分享](https://blog.csdn.net/tom_221x)
+* 「知乎」[答题和专栏（同步技术和洞见思考）](https://www.zhihu.com/people/scott.cgi)
+* 「豆瓣」[标记书籍和电影，日记（同步洞见思考）](https://www.douban.com/people/scottcgi)
+* 「简书」[写作（同步技术和洞见思考）](https://www.jianshu.com/u/63a72cf6fff1)
+* 「csdn」[纯技术分享（同步技术）](https://blog.csdn.net/tom_221x)
 * 「GitHub」[代码项目](https://github.com/scottcgi)
+* 「豆瓣阅读」[故事创作](https://read.douban.com/author/63732279)
 
-所有的文章会随着信息的积累和认知的改变，而不断的修订（增删改），并会同步更新到不同的社交账号。
+所有的文章会随着信息的积累和认知的改变，而不断地修订（增删改），并会同步更新到不同的社交账号。
 
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
-  * [技术博客](https://blog.csdn.net/tom_221x)
   * [简书文集（代码分类）](https://www.jianshu.com/u/63a72cf6fff1)
+  * [csdn](https://blog.csdn.net/tom_221x)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
-  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
+  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
+  * [豆瓣专栏（闪念俱乐部）](https://read.douban.com/column/8595270)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
