@@ -1,17 +1,17 @@
 ## 简介
 
-疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈：
+疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈如下：
 
-* j2ee（servlet、jsp、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）
+* j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）
 * js框架和库（js实现css3选择器，js实现动画引擎，js事件框架）
+* svn、git、nodejs、lisp、maven、mysql
 * 手游客户端（单机、网游、RPG、动作，策略、农场经营、跑酷、卡牌等）
-  * 私有引擎（java、c，2d）
-  * cocos2dx（c++、lua，2d）
-  * gameplay3d（c++，3d）
-  * unity3d（c#，2d/3d）
-* 自研游戏引擎（c99、opengles、java、swift，2d/3d）
-* svn、git、nodejs、lisp、maven
+  * 私有引擎（java、c，2d &nbsp;|&nbsp; 引擎、工具、游戏三层编写）
+  * cocos2dx（c++、lua，2d &nbsp;|&nbsp; 纯c++和纯lua网游、cocos修改定制、游戏层框架）
+  * gameplay3d（c++、lua，3d &nbsp;|&nbsp; 定制即时策略战斗）
+  * unity3d（c#，2d/3d &nbsp;|&nbsp; 插件、游戏框架层）
+* 自研游戏引擎（c99、opengles3.x、java、swift，2d/3d）
 * unity3d插件、开箱即用gameplay框架、vulkan、metal（进行中）
 * 人工智能、区块链、操作系统内核（学习中）
 * .....
@@ -30,7 +30,6 @@
 * 「简书」[写作（同步技术和洞见思考）](https://www.jianshu.com/u/63a72cf6fff1)
 * 「csdn」[纯技术分享（同步技术）](https://blog.csdn.net/tom_221x)
 * 「GitHub」[代码项目](https://github.com/scottcgi)
-* 「豆瓣阅读」[故事创作](https://read.douban.com/author/63732279)
 
 所有的文章会随着信息的积累和认知的改变，而不断地修订（增删改），并会同步更新到不同的社交账号。
 
@@ -41,11 +40,14 @@
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
-  * [豆瓣专栏（闪念俱乐部）](https://read.douban.com/column/8595270)
+  * [今日头条（图文并茂）](https://www.toutiao.com/c/user/105061320295/#mid=1613723709292557)
   * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
+  
+>不同平台不同的用户，平台提供流量和工具，创作者提供内容，平台与创作者合作的好就能共赢。没有流量就没有创作者，没有试错就没有迭代，流量来自于需求和解决用户痛点，但往往是从本能开始。当算法掌握了人们的需求，最终我们看到的就是被人工智能筛选出来的——人类本能。
+
 
 ## 开源项目 
 
