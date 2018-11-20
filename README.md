@@ -7,10 +7,10 @@
 * js框架和库（js实现css3选择器，js实现动画引擎，js事件框架）
 * svn、git、nodejs、lisp、maven、mysql
 * 手游客户端（单机、网游、RPG、动作，策略、农场经营、跑酷、卡牌等）
-  * 私有引擎（java、c，2d &nbsp;|&nbsp; 引擎、工具、游戏三层编写）
-  * cocos2dx（c++、lua，2d &nbsp;|&nbsp; 纯c++和纯lua网游、cocos修改定制、游戏层框架）
-  * gameplay3d（c++、lua，3d &nbsp;|&nbsp; 定制即时策略战斗）
-  * unity3d（c#，2d/3d &nbsp;|&nbsp; 插件、游戏框架层）
+  * 私有引擎（java、c，2d，引擎、工具、游戏三层编写）
+  * cocos2dx（c++、lua，2d，纯c++和纯lua网游、cocos修改定制、游戏层框架）
+  * gameplay3d（c++、lua，3d，定制即时策略战斗）
+  * unity3d（c#，2d/3d，插件、游戏框架层）
 * 自研游戏引擎（c99、opengles3.x、java、swift，2d/3d）
 * unity3d插件、开箱即用gameplay框架、vulkan、metal（进行中）
 * 人工智能、区块链、操作系统内核（学习中）
