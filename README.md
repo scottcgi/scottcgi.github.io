@@ -46,7 +46,6 @@
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
-  * [今日头条（图文并茂）](https://www.toutiao.com/c/user/105061320295/#mid=1613723709292557)
   * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
