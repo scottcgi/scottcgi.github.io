@@ -269,7 +269,7 @@ hr {
 footer {
   width:640px;
   margin:0 auto;
-  padding:20px 0 0;
+  padding:20px 0 0 30px;
   color:#ccc;
   overflow:hidden;
 
@@ -315,16 +315,10 @@ footer {
 
 @media print, screen and (max-width:580px) {
   header ul {
-    top: 10px;
+    top: 11px;
   }
   
   header p {
     width:100%;
-  }
-}
-
-@media print {
-  header p.view a small:before {
-    content:'at https://github.com/';
   }
 }
