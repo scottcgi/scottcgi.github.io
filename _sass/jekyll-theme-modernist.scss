@@ -101,7 +101,7 @@ header {
     z-index:1;
     right:20px;
     top:20px;
-    height:25px;
+    height:26px;
     padding:1px 0;
     background:#5198DF;
     background: linear_gradient(#77B9FB, #3782CD);
@@ -123,11 +123,12 @@ header {
     }
 
     li {
-      width:50px;
+      min-width:40px;
       float:left;
       border-right:1px solid #3A7CBE;
       border-radius:5px;
-      height:25px;
+      height:26px;
+      padding:0 5px 0 5px;
 
       &.single {
         border:none;
@@ -146,7 +147,7 @@ header {
       display:block;
       text-align:center;
       font-weight:500;
-      height:25px;
+      height:26px;
       text-shadow:rgba(#000, 0.4) 0 -1px 0;
 
       strong {
