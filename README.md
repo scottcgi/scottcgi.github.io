@@ -97,5 +97,7 @@
 * [社交网络](#社交网络)的私信。
 * [当前Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)的issue（公开）。
 
-
- 
+ ```
+ 乔布斯说：“stay hungry stay foolish”
+ 嗯，是这样的！
+ ```
