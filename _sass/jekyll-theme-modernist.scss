@@ -17,7 +17,7 @@ body {
 }
 
 .wrapper {
-  width:640px;
+  width:680px;
   margin:0 auto;
   background:#DEDEDE;
   border-radius: 10px;
@@ -201,7 +201,7 @@ h3, h4, h5, h6 {
 
 blockquote {
   margin:0 -20px 20px;
-  padding:15px 40px 1px 40px;
+  padding:15px 30px 1px 30px;
   // font-style:italic;
   color:#7b7b7b;
   background:#ccc;
@@ -267,7 +267,7 @@ hr {
 }
 
 footer {
-  width:640px;
+  width:680px;
   margin:0 auto;
   padding:20px 0 0 20px;
   color:#ccc;
@@ -298,8 +298,6 @@ footer {
   }
 
   footer {
-    border-radius: 0;
-    padding:20px;
     width:auto;
 
     p {
