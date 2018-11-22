@@ -124,4 +124,10 @@
 还在等什么？
 难道是所有的星星都能按你希望的方向连成一线的时刻么？
 ```
+
+## 欢迎交流
+
+* [Github主页](https://github.com/scottcgi)的邮箱。
+* [社交网络](#社交网络)的私信。
+* [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)的issue。（公开）
  
