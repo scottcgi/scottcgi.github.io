@@ -199,8 +199,7 @@ h3, h4, h5, h6 {
 
 blockquote {
   margin:0 -20px 20px;
-  padding:15px 30px 1px 30px;
-  // font-style:italic;
+  padding:15px 15px 1px 15px;
   color:#7b7b7b;
   background:#ccc;
   background:rgba(#000, 0.06);
@@ -213,12 +212,12 @@ img {
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal;
   color:#333;
-  font-size:13px;
+  font-size:14px;
   overflow-x:auto;
 }
 
 pre {
-  padding:20px 10px 20px 20px;
+  padding:15px 5px 15px 20px;
   background: #3A3C42;
   color:#f8f8f2;
   margin:0 -20px 20px;
