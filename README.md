@@ -91,12 +91,12 @@
 * [时间穿越之谜（豆瓣阅读）](https://read.douban.com/column/8581812)  
 ——长篇（18万字），这是关于时间旅行和宇宙的终极奥秘与构想。
 
-## 欢迎交流
+## 联系交流
 
-* [Github主页](https://github.com/scottcgi)的邮箱。
-* [社交网络](#社交网络)的私信。
-* [当前Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)的issue（公开）。
+* [Github主页](https://github.com/scottcgi)上的邮箱。
+* [社交网络](#社交网络)各个账号的私信。
+* [当前Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
-乔布斯说：“stay hungry stay foolish”
+乔布斯说，stay hungry stay foolish。
 ```
