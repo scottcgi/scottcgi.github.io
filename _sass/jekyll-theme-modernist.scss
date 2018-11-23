@@ -72,7 +72,7 @@ header {
   }
 
   p {
-    margin:0;
+    margin:3px 0 0 0;
     color:#61778B;
     font-size:13px;
 
@@ -100,7 +100,6 @@ header {
     z-index:1;
     right:20px;
     top:20px;
-    height:26px;
     padding:1px 0;
     background:#5198DF;
     background: linear_gradient(#77B9FB, #3782CD);
@@ -126,7 +125,6 @@ header {
       float:left;
       border-right:1px solid #3A7CBE;
       border-radius:5px;
-      height:26px;
       padding:0 5px 0 5px;
 
       &.single {
@@ -139,7 +137,7 @@ header {
     }
 
     a {
-      line-height:25px;
+      line-height:26px;
       font-size:13px;
       color:#fff;
       color:rgba(#fff, 0.8);
