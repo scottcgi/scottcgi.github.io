@@ -1,5 +1,5 @@
 ---
-description:Writer  Programmer  Game Engine Developer  Independent Game and App Producer
+description:coder  
 lang:en
 ---
 
