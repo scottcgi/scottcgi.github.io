@@ -95,8 +95,8 @@
 
 * [Github主页](https://github.com/scottcgi)上的邮箱。
 * [社交网络](#社交网络)各个账号的私信。
-* [当前Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
+* [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
-乔布斯说，stay hungry stay foolish。
+乔布斯说，“stay hungry stay foolish。”
 ```
