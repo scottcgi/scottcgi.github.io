@@ -61,7 +61,7 @@
   
 * [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。
 
-  这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl、asm.js、WebAssembly的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
+  这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
   
 * [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) c#的json解析器。
   
