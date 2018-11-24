@@ -1,5 +1,5 @@
 ---
-description: Game Engine Developer & Independent Game and App Producer
+description: Game Engine Developer & Independent Game and App Maker
 lang: en
 ---
 
