@@ -1,6 +1,6 @@
 ## 简介
 
-游戏引擎开发，游戏和软件制作，疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈详情：
+游戏引擎开发，游戏和软件制作，疯狂编程10年，平均每天10小时以上，一周写代码80小时。<a href="./" onclick="alert('ok');return false;">技术经历和技术栈详情</a>。
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）。
