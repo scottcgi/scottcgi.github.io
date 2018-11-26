@@ -32,10 +32,10 @@ The details of technical **experience** and **stack**:
 
 ## Game
 
-* [Super Little Red（ios）](https://itunes.apple.com/cn/app/id1242353775), develop with Mojoc game engine.
+* [Super Little Red (IOS)](https://itunes.apple.com/cn/app/id1242353775), develop with Mojoc game engine.
 * **More games on the way...**
 
-```c
+```
 /*
  * keep coding keep living.
  * stay hungry stay foolish.
