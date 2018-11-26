@@ -5,9 +5,9 @@ lang: en
 
 ## About
 
-Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, and **2 years** in independent game/app. In addition, adhere to technical writing and technology sharing (Chinese). 
+Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **2 years** in independent game and app. In addition, adhere to technical writing and technology sharing (Chinese). 
 
-The details of technical **experience and stack**: 
+The details of technical **experience** and **stack**: 
 
 * **J2EE** (servlet, jsp, jdbc, spring, hibernate, struct2, osgi, design pattern, various and self-developed frameworks).
 * **Front-End** (css, html, js, ajax, the open source js libraries include jquery、extjs、mootools、yui).
@@ -37,7 +37,7 @@ The details of technical **experience and stack**:
 
 ```c
 /*
- * keep coding keep living
- * stay hungry stay foolish
+ * keep coding keep living.
+ * stay hungry stay foolish.
  */ 
 ```
