@@ -10,11 +10,11 @@ Major in **Computer Science** and over **10 years** programming experience. The 
 The details of technical **experience** and **stack**: 
 
 * **J2EE** (servlet, jsp, jdbc, spring, hibernate, struct2, osgi, design pattern, various and self-developed frameworks).
-* **Front-End** (css, html, js, ajax, the open source js libraries include jquery、extjs、mootools、yui).
+* **Front-End** (css, html, js, ajax, the open source js libraries include jquery, extjs, mootools, yui).
 * Develop open source js library **MojoJS** (css3 seletor, animation engine, event handler).
 * svn, git, nodejs, lisp, maven, mysql.
 * **Mobile Game Client**.
-  * Private Game Engine (javaMe, c, 2d).
+  * Private Game Engine (java, c, 2d).
   * Cocos2dx (c++, lua, 2d).
   * Gameplay3D (c++, lua, 3d).
   * Unity3D (c#, 2d/3d).
@@ -32,7 +32,7 @@ The details of technical **experience** and **stack**:
 
 ## Game
 
-* [Super Little Red (IOS)](https://itunes.apple.com/cn/app/id1242353775), develop with Mojoc game engine.
+* [Super Little Red (ios)](https://itunes.apple.com/cn/app/id1242353775), develop with Mojoc game engine.
 * **More games on the way...**
 
 ```
