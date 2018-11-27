@@ -24,23 +24,29 @@
 
 ## 社交网络
 
-* 「微博」[分享有趣的见解和闪念（一句话纯文字）](https://weibo.com/scottcgi)
-* 「知乎」[答题和专栏（同步技术和洞见思考）](https://www.zhihu.com/people/scott.cgi)
-* 「豆瓣」[标记书籍和电影，日记（同步洞见思考）](https://www.douban.com/people/scottcgi)
-* 「简书」[写作（同步技术和洞见思考）](https://www.jianshu.com/u/63a72cf6fff1)
-* 「csdn」[纯技术分享（同步技术）](https://blog.csdn.net/tom_221x)
-* 「GitHub」[代码项目](https://github.com/scottcgi)
+* [「微博」](https://weibo.com/scottcgi)  
+  ——分享有趣的见解和闪念，一句话纯文字。
+* [「知乎」](https://www.zhihu.com/people/scott.cgi)  
+  ——答题和专栏，同步技术和洞见思考。
+* 「豆瓣」[](https://www.douban.com/people/scottcgi)  
+  ——标记书籍和电影，日记，同步洞见思考。
+* 「简书」[](https://www.jianshu.com/u/63a72cf6fff1)  
+  ——写作，同步技术和洞见思考。
+* [「csdn」](https://blog.csdn.net/tom_221x)  
+  ——纯技术分享，同步技术。
+* [「GitHub」](https://github.com/scottcgi)  
+  ——代码项目和产品。
 
 所有的文章会随着信息的积累和认知的改变，而不断地修订（增删改），并会同步更新到不同的社交账号。
 
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
   * [简书文集（代码分类）](https://www.jianshu.com/p/6a8fa2dea3db)
-  * [csdn博客](https://blog.csdn.net/tom_221x)
+  * [csdn博客（技术分享）](https://blog.csdn.net/tom_221x)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
   * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
-  * [豆瓣日记](https://www.douban.com/people/scottcgi/notes)
+  * [豆瓣日记（闪念与乱想）](https://www.douban.com/people/scottcgi/notes)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
@@ -63,7 +69,7 @@
 
   这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
   
-* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) c#的json解析器。
+* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。
   
   从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密等等功能。
   
