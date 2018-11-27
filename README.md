@@ -65,7 +65,7 @@
   
 * [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。
   
-  从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密等等功能。
+  从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
   
 * 更多的开源项目和产品，以及unity3d的插件正在路上……
 
