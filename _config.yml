@@ -2,7 +2,6 @@ title      : scott.cgi
 lang       : zh
 description: 编程、写作、独立游戏和软件制作
 copyright  : © 2018 scott.cgi All Rights Reserved
-theme      : jekyll-theme-modernist
 
 nav:
  - name: 中文
@@ -11,5 +10,3 @@ nav:
    link: /pages/coding-life.html
  - name: En
    link: /pages/readme-en.html
-
-theme: jekyll-theme-modernist
