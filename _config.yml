@@ -11,3 +11,5 @@ nav:
    link: /pages/coding-life.html
  - name: En
    link: /pages/readme-en.html
+
+theme: jekyll-theme-modernist
