@@ -1,6 +1,6 @@
 ## 简介
 
-游戏引擎开发，游戏和软件制作，疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈如下：
+游戏引擎开发，游戏和软件制作，疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈：
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）。
@@ -75,8 +75,6 @@
 坚持不懈地做好一件你认为具有非凡意义的工作，
 能够给你带来真正的满足感，
 而从事一份伟大工作唯一的方法，就是认真、敬业、执着、创新。
-
-或许，端对端的控制，就是对有序的极致追求，就是工匠精神偏执到变态的表现。
 ```
 
 ## 游戏作品
@@ -98,5 +96,7 @@
 * [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
-乔布斯说，“stay hungry stay foolish。”
+乔布斯说，
+“stay hungry stay foolish。”
+端对端的控制，就是对有序的极致追求，就是工匠精神偏执到变态的表现。
 ```
