@@ -82,6 +82,5 @@
 * [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
-“stay hungry stay foolish。”
-行动是人生唯一的答案。
+过程就是奖励，行动即是答案。
 ```
