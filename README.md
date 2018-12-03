@@ -1,6 +1,6 @@
 ## 简介
 
-游戏引擎开发，游戏和软件制作，疯狂编程10年，平均每天10小时以上，一周写代码80小时。技术经历和技术栈：
+计算机科学与技术专业，从事软件和游戏开发10多年。目前创业中，主要进行游戏和软件的制作，以及游戏引擎和开源项目的维护开发，并坚持阅读与写作。曾经疯狂编程10年，平均每天10小时以上，一周写代码80小时，核心技术经历和技术栈如下：
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）。
@@ -65,7 +65,8 @@
 
 ## 游戏作品
 
-* [Super Little Red（ios）](https://itunes.apple.com/cn/app/id1242353775)，测试Mojoc引擎可用性的小游戏。
+* [Super Little Red（ios）](https://itunes.apple.com/cn/app/id1242353775)  
+——测试Mojoc引擎可用性的游戏，有难度、考验操作、小清新。
 
 ## 科幻作品
 
