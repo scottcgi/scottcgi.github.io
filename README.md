@@ -18,21 +18,21 @@
 
 ## 社交网络
 
-* 「微博」[分享有趣的见解和闪念，一句话纯文字。](https://weibo.com/scottcgi)
-* 「知乎」[答题，专栏，想法。](https://www.zhihu.com/people/scott.cgi)  
-* 「豆瓣」[标记书籍和电影。](https://www.douban.com/people/scottcgi)  
-* 「GitHub」[代码项目和编程产品。](https://github.com/scottcgi)  
-* 「豆瓣阅读」[科幻作品。](https://read.douban.com/author/63732279)
+「微博」[分享有趣的见解和闪念，一句话纯文字。](https://weibo.com/scottcgi)  
+「知乎」[答题，专栏，想法。](https://www.zhihu.com/people/scott.cgi)  
+「豆瓣」[标记书籍和电影。](https://www.douban.com/people/scottcgi)  
+「GitHub」[代码项目和编程产品。](https://github.com/scottcgi)  
+「豆瓣阅读」[科幻作品。](https://read.douban.com/author/63732279)
 
 所有的文章会随着信息的积累和认知的改变，而不断地修订（增删改），并会同步更新到不同的社交账号。
 
-* 技术分享
+###### 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/scottcgi0)
   * [简书文集（技术分享）](https://www.jianshu.com/u/63a72cf6fff1)
   * [csdn博客（技术分享）](https://blog.csdn.net/tom_221x)
-* 洞见思考
+###### 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
-* 闪念
+###### 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
 
