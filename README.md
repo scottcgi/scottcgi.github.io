@@ -20,8 +20,8 @@
 
 * 「微博」[分享有趣的见解和闪念，一句话纯文字。](https://weibo.com/scottcgi)
 * 「知乎」[答题，专栏同步技术和洞见思考。](https://www.zhihu.com/people/scott.cgi)  
-* 「豆瓣」[标记书籍和电影，日记同步洞见思考。](https://www.douban.com/people/scottcgi)  
-* 「简书」[写作，同步技术和洞见思考。](https://www.jianshu.com/u/63a72cf6fff1)  
+* 「豆瓣」[标记书籍和电影。](https://www.douban.com/people/scottcgi)  
+* 「简书」[技术分享，同步技术。](https://www.jianshu.com/u/63a72cf6fff1)  
 * 「csdn」[技术分享，同步技术。](https://blog.csdn.net/tom_221x)  
 * 「GitHub」[代码项目和编程产品。](https://github.com/scottcgi)  
 
@@ -33,8 +33,6 @@
   * [csdn博客（技术分享）](https://blog.csdn.net/tom_221x)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/scottcgi)
-  * [简书文集（闪念与乱想）](https://www.jianshu.com/nb/13094385)
-  * [豆瓣日记（闪念与乱想）](https://www.douban.com/people/scottcgi/notes)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
