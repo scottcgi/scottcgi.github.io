@@ -19,10 +19,10 @@
 ## 社交网络
 
 * 「微博」[分享有趣的见解和闪念，一句话纯文字。](https://weibo.com/scottcgi)
-* 「知乎」[答题，专栏同步技术和洞见思考。](https://www.zhihu.com/people/scott.cgi)  
+* 「知乎」[答题，专栏分享洞见思考和同步技术。](https://www.zhihu.com/people/scott.cgi)  
 * 「豆瓣」[标记书籍和电影。](https://www.douban.com/people/scottcgi)  
-* 「简书」[技术分享，同步技术。](https://www.jianshu.com/u/63a72cf6fff1)  
-* 「csdn」[技术分享，同步技术。](https://blog.csdn.net/tom_221x)  
+* 「简书」[同步技术分享。](https://www.jianshu.com/u/63a72cf6fff1)  
+* 「csdn」[同步技术分享。](https://blog.csdn.net/tom_221x)  
 * 「GitHub」[代码项目和编程产品。](https://github.com/scottcgi)  
 
 所有的文章会随着信息的积累和认知的改变，而不断地修订（增删改），并会同步更新到不同的社交账号。
