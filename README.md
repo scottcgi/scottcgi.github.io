@@ -1,6 +1,7 @@
 ## 简介
 
-计算机软件技术专业，从事软件和游戏开发10多年，职能涉及了设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量的人文科技方面地阅读与写作。一直热爱编程，不忘初心，平均每天编程10小时以上，一周写代码约75小时。<a  href="javascript:void(ShowOrHideEl('#简介+p+ul'))">>> 核心技术经历和技术栈</a>
+计算机软件技术专业，从事软件和游戏开发10多年，职能涉及了设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量的人文科技方面地阅读与写作。一直热爱编程，不忘初心，平均每天编程10小时以上，一周写代码约75小时。
+<a href="javascript:void(ShowOrHideEl('#简介+p+ul'))"> >> 核心技术经历和技术栈</a>
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）。
@@ -39,14 +40,17 @@
 ## 开源项目 
 
 * [Mojoc](https://github.com/scottcgi/Mojoc) 纯c自研游戏引擎（c99，opengles3.x，android/ios）。
+<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(1)>p:nth-of-type(2)'))"> >> </a>
 
-  未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口。
+  未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口，接着实现UI和编辑器，完善工具链。
   
 * [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。
+<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(2)>p:nth-of-type(2)'))"> >> </a>
 
   这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
   
 * [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。
+<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(3)>p:nth-of-type(2)'))"> >> </a>
   
   从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
   
