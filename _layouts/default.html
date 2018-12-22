@@ -11,6 +11,13 @@
     
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    
+    <!-- hide some elements -->
+    <style type="text/css">
+    section>h2:first-child+p+ul {
+        display:none;
+    }
+    </style>
 
   </head>
   <body>
@@ -57,4 +64,16 @@
       </script>
     {% endif %}
   </body>
+  
+  <script>
+  // Show or hide element by selector
+  function ShowOrHideEl(selector) {
+      var el = document.querySelector(selector);
+      if (el.style.display === "block") {
+          el.style.display = "none";
+      } else {
+          el.style.display = "block";
+      }
+  }
+  </script>
 </html>
