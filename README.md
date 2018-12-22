@@ -1,6 +1,6 @@
 ## 简介
 
-计算机软件技术专业，从事软件和游戏开发10多年，职能涉及了设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量的人文科技方面地阅读与写作。一直热爱编程，不忘初心，平均每天编程10小时以上，一周写代码约75小时。<a  href="javascript:void(ShowOrHideEl('section>ul:nth-of-type(1)'))">核心技术经历和技术栈详情。</a>
+计算机软件技术专业，从事软件和游戏开发10多年，职能涉及了设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量的人文科技方面地阅读与写作。一直热爱编程，不忘初心，平均每天编程10小时以上，一周写代码约75小时。<a  href="javascript:void(ShowOrHideEl('section>ul:nth-of-type(1)'))">>> 核心技术经历和技术栈</a>
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
 * 前端（css、html、js原生API包括ajax、早期库jquery、extjs、mootools、yui等）。
@@ -38,17 +38,9 @@
 
 ## 开源项目 
 
-* [Mojoc](https://github.com/scottcgi/Mojoc) 自研游戏引擎（c99，opengles3.x，android/ios）。
+* [Mojoc](https://github.com/scottcgi/Mojoc) 纯c自研游戏引擎（c99，opengles3.x，android/ios）。
 
-  纯c的游戏引擎，未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口。接下来的一些构想：
-  
-  * 在渲染层之上构建一个跨平台的UI库（使用渲染层，或是封装统一的平台绘制层）。
-  * 在UI库之上开发各种编辑器或是软件。
-  * 剥离出一个跨平台的c语言工具库，就像jdk一样的cdk框架。
-  * 使用cdk实现一个脚本语言MojoScript——lua的改进版本，然后完成高层逻辑抽象。
-  * 使用cdk自举一个c的编译器。
-  * 重写c标准库实现。
-  * c实现操作系统内核。
+  未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口。
   
 * [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。
 
