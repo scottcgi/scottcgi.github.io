@@ -7,8 +7,6 @@ lang: en
 
 Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **2 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
 
-* Just match selector 'section>ul:nth-of-type(1)' for hide.
-
 The details of technical **experience** and **stack**: 
 
 * **J2EE** (servlet, jsp, jdbc, spring, hibernate, struct2, osgi, design pattern, various and self-developed frameworks).
