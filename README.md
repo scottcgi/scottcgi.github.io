@@ -39,20 +39,14 @@
 
 ## 开源项目 
 
-* [Mojoc](https://github.com/scottcgi/Mojoc) 纯c自研游戏引擎（c99，opengles3.x，android/ios）。  
-<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(1)>p:nth-of-type(2)'))"> >>简介 </a>  
-
-  未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口，接着实现UI和编辑器，完善工具链。
+* [Mojoc](https://github.com/scottcgi/Mojoc) 纯c自研游戏引擎（c99，opengles3.x，android/ios）。    
+——未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口，接着实现UI和编辑器，完善工具链。
   
-* [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。  
-<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(2)>p:nth-of-type(2)'))"> >>简介 </a>  
-
-  这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
+* [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。    
+——这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。另外，会以模块形式开发，解决特定的痛点，做到小而美、开箱即用毫无负担（心理、理解、使用、性能、冗余）。
   
-* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。  
-<a href="javascript:void(ShowOrHideEl('#开源项目+ul>li:nth-of-type(3)>p:nth-of-type(2)'))"> >>简介 </a>  
-  
-  从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
+* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。    
+——从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
   
 * 更多的开源项目和产品，以及unity3d的插件正在路上……
 
