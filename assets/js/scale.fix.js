@@ -19,7 +19,7 @@ function fixScale(doc) {
 }
 
 // show or hide element by selector
-function ShowOrHideEl(selector) {
+function showOrHideEl(selector) {
     var el = document.querySelector(selector);
     if (el.style.display === "block") {
         el.style.display = "none";
