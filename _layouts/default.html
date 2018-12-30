@@ -12,12 +12,6 @@
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     
-    <!-- hide some elements -->
-    <style type="text/css">
-    #简介+p+ul {
-        display:none;
-    }
-    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -65,7 +59,7 @@
   </body>
   
   <script>
-  // Show or hide element by selector
+  // show or hide element by selector
   function ShowOrHideEl(selector) {
       var el = document.querySelector(selector);
       if (el.style.display === "block") {
