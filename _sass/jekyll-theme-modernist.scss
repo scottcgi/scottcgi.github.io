@@ -324,10 +324,14 @@ footer {
     display:none;
 }
 
-.read-more:after {
+.read-more::after {
     content: "»";
     display: inline-block;
     padding-left: 6px;
     transition: transform .15s ease-out;
+}
+
+.read-more:hover::after { 
+    transform: translateX(10px) 
 }
 
