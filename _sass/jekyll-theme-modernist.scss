@@ -9,7 +9,7 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 "Helvetica Neue", "PingFang SC", "Microsoft YaHei", Arial, sans-serif, Helvetica;
+  font:14px/1.5 "Open Sans", "Helvetica Neue", "PingFang SC", "Microsoft YaHei", Arial, sans-serif, Helvetica;
   color:#555;
   font-weight:350;
   min-height:100%;
@@ -324,13 +324,10 @@ footer {
     display:none;
 }
 
-.read-more::after {
-    color: inherit;
+.read-more:after {
     content: "»";
     display: inline-block;
-    font-style: normal;
-    font-weight: inherit;
     padding-left: 6px;
-    transition: transform .15s ease-in-out;
+    transition: transform .15s ease-out;
 }
 
