@@ -36,6 +36,8 @@
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
+  
+通常情况下，如果你并不真正关心你在某领域的表现时，你就会对别人在这些领域的高水平表现，感到好奇、高兴和赞赏。如果你很在意自己在某领域的表现时，你就会对别人在这些领域的高水平表现，感到不悦、不爽和心烦。（[原理](https://zhuanlan.zhihu.com/p/31392093)）
 
 ## 开源项目 
 
@@ -73,5 +75,5 @@
 * [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
-过程就是奖励，行动即是答案。
+过程就是奖励，旅途就是回报，行动即是答案。
 ```
