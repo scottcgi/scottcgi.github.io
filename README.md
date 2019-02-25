@@ -29,8 +29,7 @@
 
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/p/52864752)
-  * [简书文集（同步技术文章）](https://www.jianshu.com/u/63a72cf6fff1)
-  * [csdn博客（同步技术文章）](https://blog.csdn.net/tom_221x)
+  * [csdn博客（同步技术文章）](https://scottcgi.blog.csdn.net)
 * 洞见思考
   * [知乎专栏（闪念与乱想）](https://zhuanlan.zhihu.com/p/52957523)
 * 闪念
