@@ -30,8 +30,8 @@
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/p/52864752)
   * [csdn博客（同步技术文章）](https://scottcgi.blog.csdn.net)
-* 洞见思考
-  * [知乎专栏（洞见思考）](https://zhuanlan.zhihu.com/p/52957523)
+* 闪念与认知
+  * [知乎专栏（深刻有趣、颠覆认知）](https://zhuanlan.zhihu.com/p/52957523)
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
