@@ -19,24 +19,18 @@
 
 ## 社交网络
 
-* 「微博」[分享有趣的见解和闪念，一句话纯文字。](https://weibo.com/scottcgi)  
-* 「知乎」[答题，专栏，想法。](https://www.zhihu.com/people/scott.cgi)  
-* 「豆瓣」[标记书籍和电影。](https://book.douban.com/people/scottcgi)  
-* 「GitHub」[代码项目和编程产品。](https://github.com/scottcgi)  
-* 「豆瓣阅读」[科幻作品。](https://read.douban.com/author/63732279)
-
 所有文章会随着信息的积累和认知的改变，而不断地修订（增删改）。
 
 * 技术分享
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/p/52864752)
   * [csdn博客（同步技术文章）](https://scottcgi.blog.csdn.net)
 * 闪念与认知
-  * [知乎专栏（深刻有趣、颠覆认知）](https://zhuanlan.zhihu.com/p/52957523)
+  * [知乎专栏（深刻有趣、颠覆认知）](https://zhuanlan.zhihu.com/p/52957523)——用闪念拼图，构建认知宇宙（类似漫威宇宙）
 * 闪念
   * [微博](https://weibo.com/scottcgi)
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
   
-通常情况下，如果你并不真正关心你在某领域的表现时，你就会对别人在这些领域的高水平表现，感到好奇、高兴和赞赏。如果你很在意自己在某领域的表现时，你就会对别人在这些领域的高水平表现，感到不悦、不爽和心烦。（[原理](https://zhuanlan.zhihu.com/p/31392093)）
+通常情况下，如果你并不真正关心你在某领域的表现时，你就会对别人在这些领域的高水平表现，感到好奇、高兴和赞赏。如果你很在意自己在某领域的表现时，你就会对别人在这些领域的高水平表现，感到不悦、不爽和心烦。（[原理解读](https://zhuanlan.zhihu.com/p/31392093)）
 
 ## 开源项目 
 
@@ -44,11 +38,11 @@
 
   未来会扩展到windows和mac平台，并会给渲染层添加vulkan和metal接口，接着实现UI和编辑器，完善工具链。
   
-* [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎、兼容性事件处理。 
+* [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎。 
 
   这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。
   
-* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson) 简单快速的c# json解析器。
+* [MojoJson](https://github.com/scottcgi/MojoJson) 简单快速的json解析器。
 
   从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
   
@@ -70,8 +64,6 @@
 ## 联系交流
 
 * [Github主页](https://github.com/scottcgi)上的邮箱。
-* [社交网络](#社交网络)各个账号的私信。
-* [Github项目](https://github.com/scottcgi/scottcgi.github.io/issues)创建issue（公开）。
 
 ```
 过程就是奖励，旅途就是回报，行动即是答案。
