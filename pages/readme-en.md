@@ -5,7 +5,7 @@ lang: en
 
 ## About
 
-Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **2 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
+Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **3 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
 
 The details of technical **experience** and **stack**: 
 
@@ -27,7 +27,7 @@ The details of technical **experience** and **stack**:
 
 * [Mojoc](https://github.com/scottcgi/Mojoc), game engine (c99, opengles3.x, android/ios).
 * [MojoJS](https://github.com/scottcgi/MojoJS), javascript library (css3 seletor, animation).
-* [MojoUnityJson](https://github.com/scottcgi/MojoUnityJson), simple and fast c# json parser.
+* [MojoJson](https://github.com/scottcgi/MojoJson), simple and fast json parser.
 * **More projects on the way...**
 
 ## Game
