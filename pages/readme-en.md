@@ -5,7 +5,7 @@ lang: en
 
 ## About
 
-Major in **Computer Science** and over **10 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **3 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
+Major in **Computer Science** and over **12 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **4 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
 
 The details of technical **experience** and **stack**: 
 
