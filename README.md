@@ -41,12 +41,12 @@
   
 * [MojoJS](https://github.com/scottcgi/MojoJS) 使用js实现了css3选择器、动画引擎。 
 
-  这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了。未来会把动画引擎继续完善做好，并加入webgl的支持。
-  
-* [MojoJson](https://github.com/scottcgi/MojoJson) 简单快速的json解析器。
+  这个项目使用业余时间在2009年完成，开始托管在google code上，后来放到github上就一直没有维护了，最近更新了动画引擎，功能十分强劲，并且这是一个通用动画算法，可以用使用任意编程语言实现。
 
-  从unity3d的游戏框架中剥离出来的，已有的开源c# json解析器过于厚重，于是就把Mojoc的实现翻译成了c#的版本。未来会继续完善加入json的读写、与对象和字符串的转换，加密解密、注释解析等等功能。
-  
+* [MojoJson](https://github.com/scottcgi/MojoJson) 简单快速的json解析器，这是一个通用高效的解析算法，目前有C#、C的实现版本。
+
+* [MojoTweenEase](https://github.com/scottcgi/MojoTweenEase) 经过优化的标准缓动补间动画算法，并进行了扩展，有C#、C、JS的实现版本。
+
 更多的开源项目和产品，以及unity3d的插件正在路上……
 
 ## 游戏作品

@@ -25,9 +25,10 @@ The details of technical **experience** and **stack**:
 
 ## Open Source
 
-* [Mojoc](https://github.com/scottcgi/Mojoc), game engine (c99, opengles3.x, android/ios).
-* [MojoJS](https://github.com/scottcgi/MojoJS), javascript library (css3 seletor, animation).
-* [MojoJson](https://github.com/scottcgi/MojoJson), simple and fast json parser.
+* [Mojoc](https://github.com/scottcgi/Mojoc) game engine (c99, opengles3.x, android/ios).
+* [MojoJS](https://github.com/scottcgi/MojoJS) javascript library (css3 seletor engine, animation engine).
+* [MojoJson](https://github.com/scottcgi/MojoJson) simple and fast json parser (includes C# and C).
+* [MojoTweenEase](https://github.com/scottcgi/MojoTweenEase) standard and custom tween easing functions (includes C#, C and JS, uses formula expansion for optimization). 
 * **More projects on the way...**
 
 ## Game
