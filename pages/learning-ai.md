@@ -21,7 +21,7 @@
      ——在线阅读，深入细节，英文
      
   * [深度学习](https://github.com/exacity/deeplearningbook-chinese) / [Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf)  
-    ——在线阅读、PDF、购买书籍，主题概括+相关数学，中文/英文
+    ——在线阅读、PDF、购买书籍，基础教科书，中文/英文
     
   * [神经网络与深度学习](https://nndl.github.io/)  
     ——PDF、购买书籍，国内教授用心之作，中文
