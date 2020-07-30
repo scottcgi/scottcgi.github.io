@@ -13,7 +13,7 @@
     ——Bilibili，深入浅出讲解，中文字幕
     
   * [谷歌—机器学习课程](https://developers.google.cn/machine-learning/crash-course)  
-     ——官网，入门+运行，中文 / 英文
+     ——官网，入门+运行，中文/英文
 
 * 书籍
 
@@ -36,6 +36,6 @@
 * 大学课程
 
   * [台大教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)  
-    ——在线，全面详细，中文繁体 / 英文
+    ——在线，全面详细，中文繁体/英文
 
 >建议：吴恩达视频首选，配合书籍由浅入深，其它辅助兴趣学习，在有了清晰的概念和理解之后，同步编程实践。
