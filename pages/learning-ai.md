@@ -1,4 +1,6 @@
-## 视频教程
+## 人工智能
+
+#### 视频教程
 
 * [吴恩达——机器学习](https://study.163.com/course/courseMain.htm?courseId=1210076550&_trace_c_p_k2_=4fa94e944ea44d0a87f7e0c3363f6642)
 （网易云课堂，入门，中文）
@@ -12,7 +14,7 @@
 * [谷歌——机器学习课程](https://developers.google.cn/machine-learning/crash-course)
 (官网，入门+运行，中文/英文)
 
-## 书籍
+#### 书籍
 
 * [神经网络与深度学习——Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 (在线阅读，深入细节，英文)
@@ -30,11 +32,9 @@
 (在线阅读，辅助有趣，英文)
 
 
-## 大学课程
+#### 大学课程
 
 [台大教授课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)
 （在线，全面详细，中文繁体/英文）
-
-##
 
 >建议：吴恩达视频首选，配合书籍由浅入深，其它辅助兴趣学习，在有了清晰的概念和理解之后，同步编程实践。
