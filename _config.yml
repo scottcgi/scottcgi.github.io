@@ -7,6 +7,6 @@ nav:
  - name: 中文
    link: /
  - name: 编程人生
-   link: /pages/coding-life.html
+   link: /code-life/
  - name: En
-   link: /pages/readme-en.html
+   link: /about/
