@@ -21,13 +21,13 @@
      ——在线阅读，深入细节，英文
      
   * [深度学习](https://github.com/exacity/deeplearningbook-chinese) / [Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf)  
-    ——在线阅读、PDF、购买书籍，概括主题数学相关，中文/英文
+    ——在线阅读、PDF、购买书籍，主题概括+相关数学，中文/英文
     
   * [神经网络与深度学习](https://nndl.github.io/)  
     ——PDF、购买书籍，国内教授用心之作，中文
     
   * [可解释的机器学习—Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
-    ——在线阅读，机器学黑盒探秘，英文
+    ——在线阅读，机器学习黑盒探秘，英文
     
   * [colah的博客](http://colah.github.io/)  
      ——在线阅读，辅助有趣，英文
