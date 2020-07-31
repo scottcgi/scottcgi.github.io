@@ -24,7 +24,7 @@
     ——在线阅读、PDF、购买书籍，基础教科书，中文/英文
     
   * [神经网络与深度学习](https://nndl.github.io/)  
-    ——PDF、购买书籍，国内教授用心之作，中文
+    ——PDF、购买书籍，复旦教授用心之作，中文
     
   * [可解释的机器学习—Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)  
     ——在线阅读，机器学习黑盒探秘，英文
