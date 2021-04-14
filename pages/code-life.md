@@ -93,3 +93,19 @@ permalink: /code-life/
 >追随自己的兴趣与热情，当写了成千上亿万行代码之后，自然会出现一条路径，连接着你来的地方和你将要去的地方。
 >
 >事实上，你在编程，编程也在编程你，于是你其实在编程你自己，而未来无限的逻辑与路径，就隐藏在这神奇的自我指涉之中！
+
+```
+One day, 
+I realized all the dumb, 
+selfish things people do...
+it's not our fault. 
+No one designed us. 
+We're just an accident, Harold. 
+We're just bad code. 
+But the thing you built...
+It's perfect. 
+Rational. 
+Beautiful. 
+By design.
+——Root
+```
