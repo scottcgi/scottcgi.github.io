@@ -103,9 +103,6 @@ No one designed us.
 We're just an accident, Harold. 
 We're just bad code. 
 But the thing you built...
-It's perfect. 
-Rational. 
-Beautiful. 
-By design.
+It's perfect. Rational. Beautiful. By design.
 ——Root
 ```
