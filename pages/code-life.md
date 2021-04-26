@@ -107,3 +107,5 @@ It's perfect. Rational. Beautiful. By design.
 
 ——Root
 ```
+
+只有真正致力于此的人——那些放弃个人生活或放弃种种的人——才能明白编程真正的乐趣所在！
