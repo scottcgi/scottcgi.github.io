@@ -48,12 +48,11 @@
 
 * [[MojoUnity-Packages]](https://github.com/scottcgi/MojoUnity-Packages) 一系列Unity游戏引擎的功能插件（高效、简洁、实用），包括不限于：编辑器扩展、震动特效、图文混排、Tween动画、UI框架、数据存储、网络传输等。
 
-
 更多的开源项目和产品，以及unity3d的插件正在路上……
 
 ## 游戏作品
 
-* [Super Little Red（ios）](https://github.com/scottcgi/Mojoc/blob/master/Samples/Apk/SuperLittleRed-2.2.0.apk?raw=true)  
+* [Super Little Red（apk）](https://github.com/scottcgi/Mojoc/blob/master/Samples/Apk/SuperLittleRed-2.2.0.apk?raw=true)  
 ——测试Mojoc引擎可用性的游戏，有难度、考验操作、小清新。
 
 ## 科幻作品
