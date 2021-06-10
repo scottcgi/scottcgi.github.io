@@ -32,14 +32,17 @@ The details of technical **experience** and **stack**:
 
 * [[MojoJS-Animation]](https://github.com/scottcgi/MojoJS-Animation) js animation engine (support queue, concurrent, delay, transform and more).
 
-* [[MojoJson]](https://github.com/scottcgi/MojoJson) simple and fast json parser (includes C# and C).
+* [[MojoJson]](https://github.com/scottcgi/MojoJson) simple and fast json parser (including C# and C).
 
-* [[MojoTweenEase]](https://github.com/scottcgi/MojoTweenEase) standard and custom tween easing functions (includes C#, C and JS, uses formula expansion for optimization). 
+* [[MojoTweenEase]](https://github.com/scottcgi/MojoTweenEase) standard and custom tween easing functions (including C#, C and JS, uses formula expansion for optimization). 
+
+* [[MojoUnity-Packages]](https://github.com/scottcgi/MojoUnity-Packages) A series of plugins for Unity Game Engine (including Editor extensions, Shake effect, Text-Image layout, Tween animation, UI framework, etc)
+
 * **More projects on the way...**
 
 ## Game
 
-* [Super Little Red (ios)](https://itunes.apple.com/cn/app/id1242353775), develop with Mojoc game engine.
+* [Super Little Red (Apk)](https://github.com/scottcgi/Mojoc/tree/master/Samples/Apk), develop with Mojoc game engine.
 * **More games on the way...**
 
 ```
