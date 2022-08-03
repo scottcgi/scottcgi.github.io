@@ -1,12 +1,12 @@
 ---
-description: Game Engine Developer & Independent Game and App Maker
+description: Game Engine Developer & Independent Game / App Maker
 permalink: /about/
 lang: en
 ---
 
 ## About
 
-Major in **Computer Science** and over **12 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **4 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
+Major in **Computer Science** and over **14 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **6 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
 
 The details of technical **experience** and **stack**: 
 
