@@ -57,7 +57,7 @@
 
 ## 科幻作品
 
-* [我，斐星人（豆瓣阅读）](https://read.douban.com/ebook/36434451)  
+* [我，斐星人（微信公众号）](https://mp.weixin.qq.com/s/dFgogBggP1P4MjA0Jkd3_w)  
 ——短篇（3.3万字），强人工智能的诞生，时间穿越，因果链，多次反转。
 
 * [时间穿越之谜（豆瓣阅读）](https://read.douban.com/ebook/59618944)  
