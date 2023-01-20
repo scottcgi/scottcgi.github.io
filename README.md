@@ -60,8 +60,8 @@
 * [我，斐星人（微信公众号）](https://mp.weixin.qq.com/s/dFgogBggP1P4MjA0Jkd3_w)  
 ——短篇（3.3万字），强人工智能的诞生，时间穿越，因果链，多次反转。
 
-* [时间穿越之谜（豆瓣阅读）](https://read.douban.com/ebook/59618944)  
-——长篇（18.3万字），这是关于时间旅行和宇宙的终极奥秘与构想。
+* [时间穿越之谜（微信公众号）](https://mp.weixin.qq.com/s/SYlBuFFjcN9ze6l4RAS-kg)  
+——长篇（18.6万字），这是关于时间旅行和宇宙奥秘的终极构想。
 
 ## 联系交流
 
