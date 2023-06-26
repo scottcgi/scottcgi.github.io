@@ -6,7 +6,7 @@ lang: en
 
 ## About
 
-Major in **Computer Science** and over **14 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **6 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
+Major in **Computer Science** and over **14 years** programming experience. The core development experience including **3 years** in J2EE, **6 years** in mobile game, **7 years** in independent game and app. In addition, adhere to technical writing and technology sharing. 
 
 The details of technical **experience** and **stack**: 
 
@@ -37,6 +37,8 @@ The details of technical **experience** and **stack**:
 * [[MojoTweenEase]](https://github.com/scottcgi/MojoTweenEase) standard and custom tween easing functions (including C#, C and JS, uses formula expansion for optimization). 
 
 * [[MojoUnity-Packages]](https://github.com/scottcgi/MojoUnity-Packages) A series of plugins for Unity Game Engine (including Editor extensions, Shake effect, Text-Image layout, Tween animation, UI framework, etc)
+
+* [[MojoTween]](https://github.com/scottcgi/MojoTween) A fast, powerful, elegant, efficient and easy-to-use Tween animation Engine for the Unity platform (Paid But Worth It).
 
 * **More projects on the way...**
 
