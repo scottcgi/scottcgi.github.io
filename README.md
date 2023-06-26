@@ -48,6 +48,8 @@
 
 * [[MojoUnity-Packages]](https://github.com/scottcgi/MojoUnity-Packages) 一系列Unity游戏引擎的功能插件（高效、简洁、实用），包括不限于：编辑器扩展、震动特效、图文混排、Tween动画、UI框架，等。
 
+* [[MojoTween]](https://github.com/scottcgi/MojoTween) 一个用于Unity平台的快速、强大、优雅、高效且易于使用的Tween动画引擎（付费但超值）。
+
 更多的开源项目和产品，以及unity3d的插件正在路上……
 
 ## 游戏作品
