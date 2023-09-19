@@ -1,6 +1,6 @@
 ## 简介
 
-计算机软件技术专业，从事软件和游戏开发10多年，职能涉及设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量人文科技方面地阅读与写作。一直热爱编程，不忘初心，过去10年平均每天编程10小时以上，一周写代码约75小时。
+计算机软件技术专业，从事软件和游戏开发12+年，职能涉及设计、研发、架构和管理。目前创业中，主要进行游戏、游戏引擎和软件方面的制作，以及开源项目的开发维护，并坚持大量人文科技方面地阅读与写作。一直热爱编程，不忘初心，过去10年平均每天编程10小时以上，一周写代码约75小时。
 <a href="javascript:void(showOrHideEl('#简介+p+ul'))" class="read-more">核心技术经历和技术栈</a>
 
 * j2ee（servlet、jsp、jdbc、spring、hibernate、struct2、osgi、设计模式、各种框架和自研框架）。
@@ -25,12 +25,13 @@
   * [知乎专栏（又在写代码）](https://zhuanlan.zhihu.com/p/52864752)
   * [csdn博客（同步技术文章）](https://scottcgi.blog.csdn.net)
 * 认知系统
-  * [闪念与认知（知乎专栏）](https://zhuanlan.zhihu.com/p/52957523)  
+  * [闪念与认知（知乎专栏频繁迭代）](https://zhuanlan.zhihu.com/p/52957523)  
     ——用闪念拼图，构建认知宇宙（类似漫威宇宙）
-  * 微信公众号（同步知乎专栏）：《闪念与认知》（SNyuRZ）    
+  * [微信公众号（同步知乎专栏但只发稳定版）](https://mp.weixin.qq.com/s/QBLCEVxAbsTgxdfiW5MmdA)：搜索“闪念与认知”或“SNyuRZ”    
     ——深刻有趣，颠覆想象，力荐一看
 * 闪念记录
   * [知乎想法](https://www.zhihu.com/people/scott.cgi/pins)
+  * [微博想法](https://weibo.com/scottcgi)
   
 通常情况下，如果你并不真正关心你在某领域的表现时，你就会对别人在这些领域的高水平表现，感到好奇、高兴和赞赏。如果你很在意自己在某领域的表现时，你就会对别人在这些领域的高水平表现，感到不悦、不爽和心烦。——深受启发的：[原理解读](https://zhuanlan.zhihu.com/p/31392093)
 
@@ -67,7 +68,7 @@
 
 ## 联系交流
 
-* [Github主页](https://github.com/scottcgi)上的邮箱。
+* [GitHub](https://github.com/scottcgi)主页上的邮箱。
 
 ```
 过程就是奖励，旅途就是回报，行动即是答案。
