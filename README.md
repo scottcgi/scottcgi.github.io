@@ -55,7 +55,7 @@
 
 ## 游戏作品
 
-* [Super Little Red（Apk）](https://github.com/scottcgi/Mojoc/blob/master/Samples/Apk/SuperLittleRed-2.2.0.apk?raw=true)  
+* [Super Little Red（Apk）](https://github.com/scottcgi/Mojoc/tree/master/Samples/Apk)  
 ——测试Mojoc引擎可用性的游戏，有难度、考验操作、小清新。
 
 ## 科幻作品
